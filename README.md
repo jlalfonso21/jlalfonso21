@@ -1,10 +1,1 @@
-# Jorge Luis Alfonso (@jlalfonso21)
-
-Fullstack software developer interested in ambitious and innovative projects
-
-## Technologies
-- Django
-- Flutter
-- React
-- Docker
-- Odoo
+![Metrics](https://metrics.lecoq.io/jlalfonso21?template=classic&notable=1&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&notable.from=organization&notable.repositories=false&notable.indepth=false&config.timezone=America%2FHavana)
